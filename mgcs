@@ -1,0 +1,1 @@
+{"title":"MGCS NFT","type":"object","properties":{"name":{"type":"string","description":"MGCS  NFT"},"description":{"type":"string","description":"MGCS NFT info"}},"image":"https://raw.githubusercontent.com/swap4token/nft/main/mgcs.jpg"}
